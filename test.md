@@ -17,9 +17,7 @@ blub
 echo "bli bla blo" > /dev/null
 ```
 
-
-
-### table
+### table
 
 | Username | Name            | E-Mail              | Phone-Number     | Permission-Role |
 | -------- | --------------- | ------------------- | ---------------- | :-------------: |
